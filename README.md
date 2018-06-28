@@ -69,4 +69,4 @@ To build your assets when you deploy, you will need place on your `package.json`
 * Research a better way to do these things without monkey patches (I have done, but looks like that with the current Hanami version it's impossible).
 
 ----------
-Samuel Simões ~ [@samuelsimoes](https://twitter.com/samuelsimoes) ~ [Blog](http://blog.samuelsimoes.com/)
+Samuel Simoes ~ [@samuelsimoes](https://twitter.com/samuelsimoes) ~ [Blog](http://blog.samuelsimoes.com/)
